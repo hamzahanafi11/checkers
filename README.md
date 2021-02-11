@@ -1,6 +1,6 @@
 # checkers
 
-A simple checkers game implemented in java with minimax algorithm
+checkers game implemented with java using minimax algorithm
 
 ## Getting Started
 
