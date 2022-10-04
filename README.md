@@ -20,4 +20,3 @@ javac -cp . CheckersUI/CheckersFrame.java
 java CheckersUI/CheckersFrame
 ```
 enjoy the game
-
