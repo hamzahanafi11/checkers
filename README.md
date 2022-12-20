@@ -6,7 +6,7 @@ checkers game implemented with java using minimax algorithm
 
 ### How to run the project
 
-download the project or clone it and then do the following : 
+download the project or clone it and then do the following steps : 
 
 #### Build the project : 
 ```
