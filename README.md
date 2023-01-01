@@ -1,5 +1,6 @@
 # checkers game by Hamza Hanafi
 
+
 checkers game implemented with java using minimax algorithm
 
 ## Getting Started
